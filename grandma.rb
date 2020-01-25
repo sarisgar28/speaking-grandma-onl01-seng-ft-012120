@@ -1,8 +1,11 @@
-# Write a speak_to_grandma method.
-
-# Whatever you say to grandma, she should respond with
-# HUH?! SPEAK UP, SONNY!
-# unless you shout it (type in all capitals).
+if grandma == >"40"
+  puts if_grandma_is_greater_than_yours
+  elsif == "grandma cooks better than yours"
+  # HUH?! SPEAK UP SONNY 
+  #=>SPEAK TO GRANDMA 
+else == "grandma does cook better"
+  print FACTS
+end 
 
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
